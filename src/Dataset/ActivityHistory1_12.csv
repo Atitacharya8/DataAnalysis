@@ -1,0 +1,10 @@
+﻿delinquency,no post,debit,credit,debit and credit
+current,10,20,50,40
+1 cycle,-150,-220,-10,-80
+2 cycle,-160,-230,-20,-90
+3 cycle,-170,-240,-30,-100
+4 cycle,-180,-250,-40,-110
+5 cycle,-190,-260,-50,-120
+6 cycle,-200,-270,-60,-130
+7cycle,-210,-280,-70,-140
+current balance,10,20,50,40
